@@ -49,6 +49,13 @@
 
 ---
 
+## 내려받기
+
+**[릴리즈 페이지](https://github.com/gtrackers/g-tracker/releases)** 에서 최신 버전의
+`G-Tracker Setup x.y.z.exe` 를 받아 실행하면 설치됩니다.
+
+---
+
 ## 무엇을 해 주나
 
 |                        |                                                                                                                                        |
